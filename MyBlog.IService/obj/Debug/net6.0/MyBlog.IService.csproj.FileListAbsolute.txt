@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IService\bin\Debug\net6.0\MyBlog.IService.deps.json
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IService\bin\Debug\net6.0\MyBlog.IService.dll
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IService\bin\Debug\net6.0\MyBlog.IService.pdb
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IService\bin\Debug\net6.0\MyBlog.Model.dll
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IService\bin\Debug\net6.0\MyBlog.Model.pdb
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IService\obj\Debug\net6.0\MyBlog.IService.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IService\obj\Debug\net6.0\MyBlog.IService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IService\obj\Debug\net6.0\MyBlog.IService.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IService\obj\Debug\net6.0\MyBlog.IService.AssemblyInfo.cs
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IService\obj\Debug\net6.0\MyBlog.IService.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IService\obj\Debug\net6.0\MyBlog.IService.csproj.CopyComplete
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IService\obj\Debug\net6.0\MyBlog.IService.dll
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IService\obj\Debug\net6.0\refint\MyBlog.IService.dll
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IService\obj\Debug\net6.0\MyBlog.IService.pdb
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IService\obj\Debug\net6.0\ref\MyBlog.IService.dll

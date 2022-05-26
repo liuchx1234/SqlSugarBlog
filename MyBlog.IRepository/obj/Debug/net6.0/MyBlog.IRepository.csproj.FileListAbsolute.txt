@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IRepository\bin\Debug\net6.0\MyBlog.IRepository.deps.json
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IRepository\bin\Debug\net6.0\MyBlog.IRepository.dll
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IRepository\bin\Debug\net6.0\MyBlog.IRepository.pdb
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IRepository\bin\Debug\net6.0\MyBlog.Model.dll
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IRepository\bin\Debug\net6.0\MyBlog.Model.pdb
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IRepository\obj\Debug\net6.0\MyBlog.IRepository.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IRepository\obj\Debug\net6.0\MyBlog.IRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IRepository\obj\Debug\net6.0\MyBlog.IRepository.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IRepository\obj\Debug\net6.0\MyBlog.IRepository.AssemblyInfo.cs
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IRepository\obj\Debug\net6.0\MyBlog.IRepository.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IRepository\obj\Debug\net6.0\MyBlog.IRepository.csproj.CopyComplete
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IRepository\obj\Debug\net6.0\MyBlog.IRepository.dll
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IRepository\obj\Debug\net6.0\refint\MyBlog.IRepository.dll
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IRepository\obj\Debug\net6.0\MyBlog.IRepository.pdb
+C:\Users\DELL\source\repos\开始学习SqlSugar\MyBlog.IRepository\obj\Debug\net6.0\ref\MyBlog.IRepository.dll
